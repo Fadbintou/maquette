@@ -1,0 +1,138 @@
+
+.firstblock{
+    width:1900px;
+    height:600px;
+    border: 1px solid #fbc04a;
+    background-color:#fbc04a;
+}
+.logofirstblock{
+    display: flex;
+    padding-left:25px;
+    padding-bottom:50px;
+    margin-top:20px;
+}
+.picture img{
+    padding-left:115%;
+   padding-bottom:-20%;
+    margin-top:-50px;
+  
+}
+.logosecondblock{
+    display: flex;
+    float:right;
+    margin-top:-70px;
+} 
+.textbock{
+    display: flex;
+    float:right;
+    margin-top:-20px;
+}
+.pubfirst{
+    font-size:17px;
+    padding-left:25px;
+}
+.pubsecond{
+    font-size:30px;
+    /* padding-left:-90px; */
+    padding-top:50px;
+}
+.pubth{
+    font-size:30px;
+    padding-right:25px;
+    padding-top:50px;
+}
+.menu{
+     display:flex; 
+    float:right;
+    /* margin-bottom:-50px;  */
+}
+li{
+     margin-left:30px;
+    list-style:none;
+    padding: 20px;
+
+}
+.table{
+   display:flex;
+}
+.secondblock{
+    display: flex;
+    border:1px solid black;
+    justify-content: center;
+    /* margin-top: 25px;
+    padding-top:10px; */
+    /* padding-bottom:15px;  */
+    
+} 
+.secondblockone{
+    background-image:url("burger2.jpg");
+    width:600px;
+    height:410px;
+    border-radius:25px;
+    margin-top:15px;
+}
+.firstchild{
+    background-image:url("img4.jpg");
+    width:600px;
+    height:200px;
+    border-radius:25px;
+    margin:15px;
+    margin-left:6px;
+}
+.secondchild{
+    background-image:url("img5.jpg");
+    width:600px;
+    height:200px;
+    border-radius:25px;
+    margin-bottom:20px;
+}
+.secondblock2 img {
+    border-radius:25px;
+}
+
+.secondblock2{
+    padding-left:4%;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+.but.buton{
+    display: flex;
+    height:50px;
+    padding: 10px 15px;
+    
+}
+.yelo{
+    height:50px;
+    background-color:#ffc045;
+}
+.troisiemeblock{
+    border:1px solid black;
+    margin-left:50px;
+   
+}
+.troisiemeblock .firstchildtroisiemeblock{
+    display:flex;
+    font-size:50px;
+    margin-left:39%;
+}
+.troisiemeblock .secondchildtroisiemeblock{
+    /* margin-left:39%; */
+    text-align: start;
+}
+
+.quatriemeblock{
+    display: flex;
+    justify-content:space-evenly;
+    border:1px solid black;
+}
+.cinquiemeblock{
+    border:1px solid black;
+    display: flex;
+}
+
+.sixiemeblock{
+    border:1px solid black;
+    display:flex;
+}
